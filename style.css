@@ -1,1 +1,89 @@
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+img{
+  width: 180px;
+  height: 176px;
+  position: relative;
+  right: 10px;
+}
+hr{
+  border: 1px solid #37B5FF;
+  height: 3px;
+  background-color: #37B5FF;
+}
 
+.Name{
+  text-align: center;
+  color:#37B5FF;
+  font-size:42pt;
+  font-family:"Tahoma",sans-serif;
+  font-weight: bold;
+  letter-spacing:2.2pt;
+}
+
+.SubName{
+  text-align: center;
+  color:#3D6A89;
+  font-size:11pt;
+  font-family:"Tahoma",sans-serif;
+  letter-spacing:4pt;
+  font-weight: bold;
+}
+
+.Parts{
+  color:#37B5FF;
+  font-size:22pt;
+  font-family:"Tahoma",sans-serif;
+  font-weight: bold;
+  letter-spacing:2.2pt;
+}
+.grid-item img{
+  width: auto;
+  right: auto;
+  justify-items: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 67%;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+}
+.perfil-exp{
+  color:#3D6A89;
+  font-size:16pt;
+  font-family:"Tahoma",sans-serif;
+  line-height: 1.5em;
+}
+.sub-Parts{
+  color:#3D6A89;
+  font-size:16pt;
+  font-family:"Tahoma",sans-serif;
+}
+.experiencia {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  padding: 20px;
+}
+.educacion{
+  grid-column: 2;
+  grid-row: 3 / span 2;
+  padding: 20px;
+}
+.perfil{
+  grid-column: 1;
+  grid-row: 2 / span 2;
+  padding: 20px;
+  text-align: justify;
+}
+.dates{
+  color:#37B5FF;
+  font-size:11pt;
+  font-family:"Tahoma",sans-serif;
+  letter-spacing:2pt;
+}
