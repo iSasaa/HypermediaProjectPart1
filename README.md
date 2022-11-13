@@ -7,3 +7,4 @@ Análisis del proyecto:
   • Diseño visual:
       El disenyo que vamos a implementar sera con una paleta de colores azules ya que inspiran firmeza y seguridad, por otra parte la tipografia que usaremos sera una         clara i entenedora como xxxxxxxxxxxxxxxxxx.
   
+Figma: prototipo de la pagina; https://www.figma.com/file/WUTMXTcHvzih3FU7ikm5pE/CV-HypermediaProjectPart1?node-id=0%3A1
